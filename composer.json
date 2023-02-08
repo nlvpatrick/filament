@@ -11,6 +11,7 @@
         "codewithdiki/filament-theme-manager": "^0.2.3",
         "filament/filament": "^2.001",
         "guzzlehttp/guzzle": "^7.2",
+        "jeffgreco13/filament-breezy": "v1.4.10.1",
         "laravel/framework": "^9.19",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
