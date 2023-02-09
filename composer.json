@@ -6,6 +6,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
+        "3x1io/filament-browser": "^1.0",
         "3x1io/filament-excel": "^1.0",
         "buildix/timex": "^1.1",
         "codewithdiki/filament-theme-manager": "^0.2.3",
@@ -15,7 +16,11 @@
         "laravel/framework": "^9.19",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
+        "phpsa/filament-dadjokes": "^1.1",
+        "pxlrbt/filament-spotlight": "^0.3.6",
         "saade/filament-laravel-log": "^1.1",
+        "shuvroroy/filament-spatie-laravel-backup": "^1.2",
+        "shuvroroy/filament-spatie-laravel-health": "^1.6",
         "spatie/laravel-permission": "^5.8"
     },
     "require-dev": {
